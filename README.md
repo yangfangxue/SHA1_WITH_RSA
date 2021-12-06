@@ -1,2 +1,2 @@
 # SHA1_WITH_RSA
-这是一道关于SHA1_WITH_RSA的机试题目
+这是一道关于SHA1_WITH_RSA算法的一道的机试题目，来自某武汉科技公司招聘题目。
